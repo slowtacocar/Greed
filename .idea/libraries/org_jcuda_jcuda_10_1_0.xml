@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.jcuda:jcuda:10.1.0" type="repository">
+    <properties maven-id="org.jcuda:jcuda:10.1.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jcuda/jcuda/10.1.0/jcuda-10.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jcuda/jcuda-natives/10.1.0/jcuda-natives-10.1.0-windows-x86_64.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

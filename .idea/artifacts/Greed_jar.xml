@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Greed:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Greed_jar</output-path>
+    <root id="archive" name="Greed.jar">
+      <element id="module-output" name="Greed" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jcuda/jcuda/10.1.0/jcuda-10.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jcuda/jcuda-natives/10.1.0/jcuda-natives-10.1.0-windows-x86_64.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
